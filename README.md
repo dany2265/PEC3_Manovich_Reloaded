@@ -56,6 +56,10 @@ Fecha: 2 de mayo de 2022 <br><br>
 
 [![Alt text](https://img.youtube.com/vi/92rYjlxqypM/0.jpg)](https://www.youtube.com/watch?v=92rYjlxqypM)
 
+<h1>Conclusión</h1>
+<p>Después de habernos puesto las maravillosas gafas de Lez Manovich, las que nos ayudan a ver el mundo de la multimedia desde otro punto de vista encontre en su libro una refencia que hacia el que se adecua perfectamente al trabajo que hemos realizado:</p> 
+<blockquote>"El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes." 
+        <cite>(Lev Manovich, 2013)</cite></blockquote>
 
 
 
