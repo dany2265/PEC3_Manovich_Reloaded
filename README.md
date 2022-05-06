@@ -13,15 +13,12 @@ Fecha: 2 de mayo de 2022 <br><br>
 
 ## Planteamiento
 <p>En esta tercera actividad, lo que se pide con ejemplo actuales de casos de hibridación y un análisis bajo la visión de la “gafas de Manovich”. Consiste en buscar y analizar 2 casos actuales, estas son mis dos elecciones:</p>
-
-<ol>
-    <li>El paso del anime de One Piece a Real Live, mediante Netflix.</li>
-   
-    <li>El precursor de los juegos de realidad virtual como es Ingrees.</li>
-</ol>
+    <h3>El paso del anime de One Piece a Real Life, mediante Netflix.</h3>
+    <img src="https://github.com/dany2265/PEC3_Manovich_Reloaded/blob/main/One_Piece.webp" alt="" width="600px" height="400px">
+    <h3>El precursor de los juegos de realidad virtual como es Ingrees.</h3>
+<img src="https://github.com/dany2265/PEC3_Manovich_Reloaded/blob/main/social-og.jpeg" alt="" width="600px" height="400px">
 
 
-![image](https://github.com/dany2265/PEC3_Manovich_Reloaded/blob/main/One_Piece.webp)
 
 
 ## Re-descubriendo la hibridacion: Caso 1
