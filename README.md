@@ -7,7 +7,7 @@ Autor: Daniel Ferrer Gómez
 
 
 Fecha: 2 de mayo de 2022 <br><br>
-![image]https://img.freepik.com/foto-gratis/desgaste-gafas_74190-2480.jpg?w=1480&t=st=1651490783~exp=1651491383~hmac=907d15edbe5db9fc02b86c4add50e74c07bb8179b35181bcebe35d422bc58a16(
+![image](https://github.com/dany2265/PEC3_Manovich_Reloaded/blob/main/gafas%20de%20manovich.jpg)
 
 
 
@@ -33,7 +33,8 @@ Fecha: 2 de mayo de 2022 <br><br>
     <p>Esto se entiende como un caso de hibridación y no uno de multimedia, ya que unifica varios medios que interactúan entre sí. Es más, para la realización de estos casos de hibridación de un paso del anime o comics, que se producen en real live, se utilizan varios medios como son las pantallas de croma para crear los diferentes escenarios, para que sean los más parecido a la historia original y no poner el peligro a los protagonistas. En este caso un ejemplo sería, el ver como navega el barco por un mar rocambolesco, ya que esto si lo intentaran hacer en mar abierto pondrían en peligro al equipo y los protagonistas.</p><br>
 
  <blockquote>"Cada uno de estos elementos visuales es el resultado del uso de determinadas técnicas de medios para dibujar, fotografiar y realizar gráficos por ordenador. Por lo tanto, aunque denominemos a esos objetos culturales remezclas de contenido, también queda justificado que pensemos en ellos como remezclas de técnicas.” <cite>(Lev Manovich, 2013)</cite></blockquote>
-
+ 
+ [![Alt text](https://img.youtube.com/vi/CvPULYjNEBU/0.jpg)](https://www.youtube.com/watch?v=CvPULYjNEBU)
 
 ## Re-descubriendo la hibridacion: Caso 2
 
