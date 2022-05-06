@@ -34,6 +34,13 @@ Fecha: 2 de mayo de 2022 <br><br>
 
  <blockquote>"Cada uno de estos elementos visuales es el resultado del uso de determinadas técnicas de medios para dibujar, fotografiar y realizar gráficos por ordenador. Por lo tanto, aunque denominemos a esos objetos culturales remezclas de contenido, también queda justificado que pensemos en ellos como remezclas de técnicas.” <cite>(Lev Manovich, 2013)</cite></blockquote>
  
+ <p> A continuación insertaré 2 videos con la diferencia entre el anime y el real life para que se visualice la hibridación. </p>
+   <h4>Traile Anime</h4>
+    
+   [![Alt text](https://img.youtube.com/vi/kgM3KEuw1fw/0.jpg)](https://www.youtube.com/watch?v=kgM3KEuw1fw)
+   
+ <h4>Trailer Real Life</h4> 
+ 
  [![Alt text](https://img.youtube.com/vi/CvPULYjNEBU/0.jpg)](https://www.youtube.com/watch?v=CvPULYjNEBU)
 
 ## Re-descubriendo la hibridacion: Caso 2
