@@ -42,9 +42,13 @@ Fecha: 2 de mayo de 2022 <br><br>
  [![Alt text](https://img.youtube.com/vi/CvPULYjNEBU/0.jpg)](https://www.youtube.com/watch?v=CvPULYjNEBU)
 
 ## Re-descubriendo la hibridacion: Caso 2
+ <h1><a href="https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014.">Ingress</a></h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+<p>En este segundo caso hablaremos sobre la hibridación que han sufrido el mundo de los videojuegos con el nuevo sistema de realidad aunmentada, hablaremos directamente sobre Ingress un juego desarrollado por Niantic una de las desarolladoras más importantes de este género en el cual se encuentra se podría decir su obra maestra de la realidad aumentada asi como es Pokemon Go.</p>
+<p>Ingrees, se considera un caso de hibridación, puesto que que se pasa a ver el mundo de los videojuegos de una manera totalmente diferente,ya que normalmente los usuarios cuando juegan a los videojuegos lo hacen sentados desde el sofa de su casa, y aqui es donde llegamos al caso de hibridación, debido a que Ingress, nos hace participes del propio videojuego, ya que reune todos los aspectos como son la geolocalización mediante un sistema de GPS.</p>
+<p>El entorno que se visualiza una vez has iniciado el juego, es un mapa en el cual se visualizan todas las calles que hay a tu alrededor, admemás de tu personaje en 3D. </p>
+<p>También se puede apreciar diferentes puntos los cuales son los diferentes portales los cuales se pueden tanto defender como atacar.</p>
+<p>Todo lo mencionado anteriormente, solo se le puede conseguir con la interacción con el usuario, esto es lo que provoca lo que se denomina la hibridación del medio,ya que se ha pasado a ser usuario pasivo del videojuego a ser usuario activo.</p>
 
 ### Referencias y Bibliografía
 
