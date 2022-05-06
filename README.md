@@ -3,30 +3,36 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Daniel Ferrer G.ómez
+Autor: Daniel Ferrer Gómez
 
 
-Fecha: 2 de mayo de 2022
-
-![Cultura Digital]https://img.freepik.com/foto-gratis/desgaste-gafas_74190-2480.jpg?w=1480&t=st=1651490783~exp=1651491383~hmac=907d15edbe5db9fc02b86c4add50e74c07bb8179b35181bcebe35d422bc58a16(
+Fecha: 2 de mayo de 2022 <br><br>
+![image]https://img.freepik.com/foto-gratis/desgaste-gafas_74190-2480.jpg?w=1480&t=st=1651490783~exp=1651491383~hmac=907d15edbe5db9fc02b86c4add50e74c07bb8179b35181bcebe35d422bc58a16(
 
 
 
 ## Planteamiento
+<p>En esta tercera actividad, lo que se pide con ejemplo actuales de casos de hibridación y un análisis bajo la visión de la “gafas de Manovich”. Consiste en buscar y analizar 2 casos actuales, estas son mis dos elecciones:</p>
 
-En esta tercera actividad, lo que se pide con ejemplo actuales de casos de hibridación y un análisis bajo la visión de la “gafas de Manovich”. Consiste en buscar y analizar 2 casos actuales, estas son mis dos elecciones:
+<ol>
+    <li>El paso del anime de One Piece a Real Live, mediante Netflix.</li>
+    <li>El precursor de los juegos de realidad virtual como es Ingrees.</li>
+</ol>
 
-1-	El paso del anime de One Piece a Real Live, mediante Netflix.<br>
-2-	El precursor de los juegos de realidad virtual como es Ingrees.
+
 ![image](https://user-images.githubusercontent.com/93986555/166226279-ff65e443-71de-4679-93ef-8d2133a76a28.png)
 
 
 ## Re-descubriendo la hibridacion: Caso 1
-One Piece
+ <h1><a href="https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/">One Piece, Live-Action</a></h1>
 
-Empecemos a hablar de cómo ha evolucionado la visualización del manga-anime One Piece, el 22 de julio de 1997 se publicó su primer manga, en formato papel. Pero fue entonces el 20 de octubre de 1999, cuando sufrió la primera transformación, puesto que el manga sufrió un proceso de remediación al Anime, esto quería decir que se pasaba de seguir su historia en papel a la gran pantalla, mediante la animación de dichas publicaciones.
-![image](https://user-images.githubusercontent.com/93986555/166226313-90790ea3-2d8d-4694-9caa-078b6f49cd17.png)
+  <p>Empecemos a hablar de cómo ha evolucionado la visualización del manga-anime One Piece, el 22 de julio de 1997 se publicó su primer manga, en formato papel. Pero fue entonces el 20 de octubre de 1999, cuando sufrió la primera transformación, puesto que el manga sufrió un proceso de remediación al Anime, esto quería decir que se pasaba de seguir su historia en papel a la gran pantalla, mediante la animación de dichas publicaciones.</p><br>
+    <p>El primer cambio que se produce, a la hora de pasar del manga al anime, es bastante grande, puesto que pasas de ver las imágenes en un estado fijo, a ver el manga que has estado leyendo durante todo ese tiempo con grandes animaciones y efectos especiales que no se pueden implantar en el papel, ya que estos efectos se implantan mediante onomatopeyas.</p><br>
+    <p>Después de más de 20 años de animación, el autor y compañía deciden dar un paso más hacia delante y convertir esta serie animada, en una serie de Real Live, con actores de carne y hueso que interpretarán a los protagonistas de la serie.</p><br>
+    <p>Y aquí es donde se crea una nueva estética visual híbrida, en la cual se integra la transformación del personaje animado a la persona humana.</p><br>
+    <p>Esto se entiende como un caso de hibridación y no uno de multimedia, ya que unifica varios medios que interactúan entre sí. Es más, para la realización de estos casos de hibridación de un paso del anime o comics, que se producen en real live, se utilizan varios medios como son las pantallas de croma para crear los diferentes escenarios, para que sean los más parecido a la historia original y no poner el peligro a los protagonistas. En este caso un ejemplo sería, el ver como navega el barco por un mar rocambolesco, ya que esto si lo intentaran hacer en mar abierto pondrían en peligro al equipo y los protagonistas.</p><br>
 
+ <blockquote>"Cada uno de estos elementos visuales es el resultado del uso de determinadas técnicas de medios para dibujar, fotografiar y realizar gráficos por ordenador. Por lo tanto, aunque denominemos a esos objetos culturales remezclas de contenido, también queda justificado que pensemos en ellos como remezclas de técnicas.” <cite>(Lev Manovich, 2013)</cite></blockquote>
 
 
 ## Re-descubriendo la hibridacion: Caso 2
