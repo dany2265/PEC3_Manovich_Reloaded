@@ -49,8 +49,16 @@ Fecha: 2 de mayo de 2022 <br><br>
 <p>El entorno que se visualiza una vez has iniciado el juego, es un mapa en el cual se visualizan todas las calles que hay a tu alrededor, admemás de tu personaje en 3D. </p>
 <p>También se puede apreciar diferentes puntos los cuales son los diferentes portales los cuales se pueden tanto defender como atacar.</p>
 <p>Todo lo mencionado anteriormente, solo se le puede conseguir con la interacción con el usuario, esto es lo que provoca lo que se denomina la hibridación del medio,ya que se ha pasado a ser usuario pasivo del videojuego a ser usuario activo.</p>
+<blockquote>"En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado."  <cite>(Adel)</cite></blockquote>
+
+<p>Pienso que estos dos ejemplos que he utilizado, serian algunos unos buenos argumentos en los cuales Lev Manovich se podría apoyar en futuras nuevas publicaciones</p>
+
 
 ### Referencias y Bibliografía
+One Piece en Real Life,![link](https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/)
+Ingress, el videojuego<a href="https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014."></a>
+<a href="http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/"></a>
+Lev Manovich: "El Software toma el mando"
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
