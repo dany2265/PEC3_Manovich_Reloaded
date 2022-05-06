@@ -55,9 +55,11 @@ Fecha: 2 de mayo de 2022 <br><br>
 
 
 ### Referencias y Bibliografía
-One Piece en Real Life,![link](https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/)
-Ingress, el videojuego<a href="https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014."></a>
-<a href="http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/"></a>
+<p>One Piece en Real Life</p>
+<a href="https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/">https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/</a>
+<p>Ingress, el videojuego</p>
+<a href="https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014.">https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014."</a>
+<a href="http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/">http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/</a>
 Lev Manovich: "El Software toma el mando"
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
