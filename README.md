@@ -16,11 +16,12 @@ Fecha: 2 de mayo de 2022 <br><br>
 
 <ol>
     <li>El paso del anime de One Piece a Real Live, mediante Netflix.</li>
+   
     <li>El precursor de los juegos de realidad virtual como es Ingrees.</li>
 </ol>
 
 
-![image](https://user-images.githubusercontent.com/93986555/166226279-ff65e443-71de-4679-93ef-8d2133a76a28.png)
+![image](https://github.com/dany2265/PEC3_Manovich_Reloaded/blob/main/One_Piece.webp)
 
 
 ## Re-descubriendo la hibridacion: Caso 1
