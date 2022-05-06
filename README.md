@@ -52,15 +52,20 @@ Fecha: 2 de mayo de 2022 <br><br>
 <blockquote>"En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado."  <cite>(Adel)</cite></blockquote>
 
 <p>Pienso que estos dos ejemplos que he utilizado, serian algunos unos buenos argumentos en los cuales Lev Manovich se podría apoyar en futuras nuevas publicaciones</p>
+<h4>Trailer Ingress</h4> 
+
+[![Alt text](https://img.youtube.com/vi/92rYjlxqypM/0.jpg)](https://www.youtube.com/watch?v=92rYjlxqypM)
+
+
 
 
 ### Referencias y Bibliografía
-<p>One Piece en Real Life</p>
-<a href="https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/">https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/</a>
-<p>Ingress, el videojuego</p>
-<a href="https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014.">https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014."</a>
-<a href="http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/">http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/</a>
-Lev Manovich: "El Software toma el mando"
+<p>One Piece en Real Life: 
+<a href="https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/">https://mag.elcomercio.pe/respuestas/one-piece-en-netflix-fecha-de-estreno-del-live-action-trailer-historia-personajes-y-todo-sobre-la-serie-eiichiro-oda-monkey-luffy-nnda-nnlt-noticia/</a></p>
+<p>Ingress, el videojuego:
+<a href="https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014.">https://hmong.es/wiki/Ingress_(video_game)#:~:text=Ingress%20(o%20Ingress%20Prime%20)%20es,14%20de%20julio%20de%202014."</a></p>
+<p>Ferran, Adell: <a href="http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/">http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/</a></p>
+<p>Lev Manovich: "El Software toma el mando"</p>
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
